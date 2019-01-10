@@ -1,0 +1,5 @@
+# Byte-compiled / optimized / DLL files
+.ipynb
+.ipynb_checkpoints/
+# Data Files
+data/
